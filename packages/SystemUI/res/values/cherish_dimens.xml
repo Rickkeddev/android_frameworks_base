@@ -1,5 +1,7 @@
-/**
- * Copyright (c) 2019, The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright (c) 2019 CherishOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,7 +15,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
 */
-
- package android.content.pm.permission;
-
- parcelable SplitPermissionInfoParcelable;
+-->
+<resources>
+    <!-- Network traffic monitor -->
+    <dimen name="net_traffic_multi_text_size">8dp</dimen>
+    <dimen name="net_traffic_txt_img_padding">2dp</dimen>
+</resources>
