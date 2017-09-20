@@ -29,4 +29,5 @@
     <string name="qs_menu_item_columns_eight">8</string>
     <string name="qs_menu_item_columns_nine">9</string>
     <string name="qs_menu_item_reset">Thiết lật lại</string>
+	<string name="qs_menu_item_titles">Hiển thị nhãn</string>
 </resources>
